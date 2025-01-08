@@ -1,0 +1,23 @@
+1. What type of restaurant do the majority of customers order from?
+
+Conclusion: The majority of the restaurants falls in dining category.
+
+2. How many votes has each type of restaurant received from customers?
+
+Conclusion: Dining restaurants has received maximum votes.
+
+3. What are the ratings that majority of restaurants have received?
+
+Conclusion: The majority restaurants received rating from 3.5 - 4
+
+4. Zomato has observed that most couples order most of their food online. What is their average spending on each order?
+
+Conclusion: The majority of couples prefer restaurants with an approximate cost of 300 rupees.
+
+5. Which mode(online or offline) has received the maximum ratings?
+
+Conclusion: Offline orders received less ratings  than online orders.
+
+6. Which type of restaurant received more offline orders so that zomato can provide customers with some good offers?
+
+Conclusion: Dining restaurants primarily accepts offline orders, where as cafes primarily receive online orders. This suggests that clients prefer to order in person at restaurants, but prefesr online ordering at cafes.
